@@ -1,0 +1,6 @@
+name: TagTracker
+version: ${project.version}
+main: me.windcat.tagtracker.TagTracker
+api-version: 1.16
+authors: [ windcat ]
+description: Ability to create compasses that point to players with a specific tag.
